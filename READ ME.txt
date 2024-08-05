@@ -1,0 +1,15 @@
+1. Kami pikir kreativitas yang dimaksud adalah kreativitas ide website, 
+untuk itu kami meminta maaf. Namun karna waktu sudah sangat mepet, jadi kami memutuskan untuk
+lanjut saja.
+
+2. Website yang kami buat menggunakan HTML, CSS, dan sedikit JS. Website ini mengenai productivity.
+
+3. Fitur yang ada di sini adalah Pomodoro dengan interactive isometric room dan music dan to do list
+
+4. Seperti yang dapat dilihat, database belum tersentuh.
+
+5. Technoskill tidak ada isinya
+
+KESALAHAN
+1. Saat dijalankan sendiri (music, pomodoro, todo), mereka bekerja dengan baik. Namun, setelah disatukan oleh navigation menu
+pada index, mereka mulai menunjukkan anomali. Dicurigai karna JS (kecuali musik). Mohon bimbingannya.
